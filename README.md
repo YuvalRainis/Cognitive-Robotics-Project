@@ -1,7 +1,7 @@
 # Cognitive Robotics Project – Color Based Object Sorting
 
 Course: Technion – Cognitive Robotics (097244), Spring 2025  
-Authors: Sivan Maspin (207807967), Yuval Rainis (318884921)
+Authors: Sivan Maspin, Yuval Rainis
 
 ---
 
