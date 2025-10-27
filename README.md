@@ -70,7 +70,7 @@ The simulation is implemented in Webots, using the KUKA youBot platform.
   ```
 
 ### **Steps to Run**
-1. Open the project world file (`color_sorting.wbt`) in Webots.  
+1. Open the project world file (`world.wbt`) in Webots.  
 2. Ensure the following controller assignments:  
    - Supervisor: `my_supervisor.py`  
    - Robot (YouBot): `youbot_cogrob.py`  
