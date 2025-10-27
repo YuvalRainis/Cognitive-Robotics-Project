@@ -82,7 +82,7 @@ The simulation is implemented in Webots, using the KUKA youBot platform.
 
 ## Demonstration
 A short video demonstration of the robot sorting all cubes can be found on YouTube:  
-*(link to be added once uploaded)*
+https://youtu.be/ILVMkKG-UuY
 
 ---
 
